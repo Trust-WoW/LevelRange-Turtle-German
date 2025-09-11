@@ -105,7 +105,7 @@ LEVELRANGE_ZULFARRAK        = "Zul'Farrak";
 
 LEVELRANGE_INSTANCESTEXT    = "Instanzen:";
 
-- Turtle WoW Dungeons
+-- Turtle WoW Dungeons
 LEVELRANGE_CRESCENTGROVE    = "Der Sichelhain";
 LEVELRANGE_GILNEASCITY      = "Stadt Gilneas";
 LEVELRANGE_HATEFORGEQUARRY  = "Hassschmied-Steinbruch";
