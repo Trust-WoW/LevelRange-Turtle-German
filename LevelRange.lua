@@ -227,10 +227,10 @@ LEVELRANGE_COLORS = {
     Unknown     = { r = 0.8, g = 0.8, b = 0.8 },
     Hostile     = { r = 0.9, g = 0.2, b = 0.2 },
     Friendly    = { r = 0.2, g = 0.9, b = 0.2 },
-    Contested   = { r = 0.8, g = 0.6, b = 0.4 },
+    Contested   = { r = 1.0, g = 0.8, b = 0.0 },
     
     None        = { r = 1.0, g = 1.0, b = 1.0 },
-    Levels      = { r = 0.8, g = 0.6, b = 0.0 },
+    Levels      = { r = 0.0, g = 0.7, b = 1.0 },
 };
 
 -- Options
@@ -278,14 +278,14 @@ local function lUpdateTooltip(zoneName)
         
         if (side == lTYPE_CONTESTED) then
             title = LEVELRANGE_COLORS.Contested;
-            actualside = "Contested";
+            actualside = "Umkämpft";
         else
             if (faction == side) then
                 title = LEVELRANGE_COLORS.Friendly;
-                actualside = "Friendly";
+                actualside = "Freundlich";
             else
                 title = LEVELRANGE_COLORS.Hostile;
-                actualside = "Hostile";
+                actualside = "Feindlich";
             end
         end
         levels = string.format(LEVELRANGE_LEVELS, min, max);
