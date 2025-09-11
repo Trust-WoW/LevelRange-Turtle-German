@@ -10,54 +10,54 @@
 
 -- LevelRange
 LEVELRANGE_NAME             = "LevelRange";
-LEVELRANGE_DESCRIPTION      = "Shows the zone level range on the World Map";
+LEVELRANGE_DESCRIPTION      = "Zeigt den Zonen-Stufenbereich auf der Weltkarte an.";
 
--- Factions
-LEVELRANGE_ALLIANCE         = "Alliance";
+-- Fraktionen
+LEVELRANGE_ALLIANCE         = "Allianz";
 LEVELRANGE_HORDE            = "Horde";
-LEVELRANGE_CONTESTED        = "Contested";
+LEVELRANGE_CONTESTED        = "Umkämpft";
 
--- Zones
-LEVELRANGE_MOONGLADE        = "Moonglade";
-LEVELRANGE_ELWYNN           = "Elwynn Forest";
+-- Zonen
+LEVELRANGE_MOONGLADE        = "Mondlichtung";
+LEVELRANGE_ELWYNN           = "Wald von Elwynn";
 LEVELRANGE_DUNMOROGH        = "Dun Morogh";
-LEVELRANGE_TIRISFAL         = "Tirisfal Glades";
+LEVELRANGE_TIRISFAL         = "Tirisfal";
 LEVELRANGE_LOCHMODAN        = "Loch Modan";
-LEVELRANGE_SILVERPINE       = "Silverpine Forest";
+LEVELRANGE_SILVERPINE       = "Silberwald";
 LEVELRANGE_WESTFALL         = "Westfall";
-LEVELRANGE_REDRIDGE         = "Redridge Mountains";
-LEVELRANGE_DUSKWOOD         = "Duskwood";
-LEVELRANGE_HILLSBRAD        = "Hillsbrad Foothills";
-LEVELRANGE_WETLANDS         = "Wetlands";
-LEVELRANGE_ALTERAC          = "Alterac Mountains";
-LEVELRANGE_ARATHI           = "Arathi Highlands";
-LEVELRANGE_STRANGLETHORN    = "Stranglethorn Vale";
-LEVELRANGE_BADLANDS         = "Badlands";
-LEVELRANGE_SORROWS          = "Swamp of Sorrows";
-LEVELRANGE_HINTERLANDS      = "The Hinterlands";
-LEVELRANGE_SEARINGGORGE     = "Searing Gorge";
-LEVELRANGE_BLASTEDLANDS     = "Blasted Lands";
-LEVELRANGE_BURNINGSTEPPE    = "Burning Steppes";
-LEVELRANGE_WESTERNPLAGUE    = "Western Plaguelands";
-LEVELRANGE_EASTERNPLAGUE    = "Eastern Plaguelands";
+LEVELRANGE_REDRIDGE         = "Rotkammgebirge";
+LEVELRANGE_DUSKWOOD         = "Dämmerwald";
+LEVELRANGE_HILLSBRAD        = "Vorgebirge des Hügellands";
+LEVELRANGE_WETLANDS         = "Sumpfland";
+LEVELRANGE_ALTERAC          = "Alteracgebirge";
+LEVELRANGE_ARATHI           = "Arathihochland";
+LEVELRANGE_STRANGLETHORN    = "Schlingendorntal";
+LEVELRANGE_BADLANDS         = "Ödland";
+LEVELRANGE_SORROWS          = "Sümpfe des Elends";
+LEVELRANGE_HINTERLANDS      = "Hinterland";
+LEVELRANGE_SEARINGGORGE     = "Sengende Schlucht";
+LEVELRANGE_BLASTEDLANDS     = "Verwüstete Lande";
+LEVELRANGE_BURNINGSTEPPE    = "Brennende Steppe";
+LEVELRANGE_WESTERNPLAGUE    = "Westliche Pestländer";
+LEVELRANGE_EASTERNPLAGUE    = "Östliche Pestländer";
 LEVELRANGE_DUROTAR          = "Durotar";
 LEVELRANGE_MULGORE          = "Mulgore";
-LEVELRANGE_DARKSHORE        = "Darkshore";
-LEVELRANGE_BARRENS          = "The Barrens";
-LEVELRANGE_STONETALON       = "Stonetalon Mountains";
-LEVELRANGE_ASHENVALE        = "Ashenvale";
-LEVELRANGE_1KNEEDLES        = "Thousand Needles";
+LEVELRANGE_DARKSHORE        = "Dunkelküste";
+LEVELRANGE_BARRENS          = "Brachland";
+LEVELRANGE_STONETALON       = "Steinkrallengebirge";
+LEVELRANGE_ASHENVALE        = "Eschental";
+LEVELRANGE_1KNEEDLES        = "Tausend Nadeln";
 LEVELRANGE_DESOLACE         = "Desolace";
-LEVELRANGE_DUSTWALLOW       = "Dustwallow Marsh";
+LEVELRANGE_DUSTWALLOW       = "Düstermarschen";
 LEVELRANGE_FERALAS          = "Feralas";
 LEVELRANGE_TANARIS          = "Tanaris";
 LEVELRANGE_AZSHARA          = "Azshara";
-LEVELRANGE_FELWOOD          = "Felwood";
-LEVELRANGE_UNGOROCRATER     = "Un'Goro Crater";
+LEVELRANGE_FELWOOD          = "Teufelswald";
+LEVELRANGE_UNGOROCRATER     = "Un'Goro-Krater";
 LEVELRANGE_SILITHUS         = "Silithus";
-LEVELRANGE_WINTERSPRING     = "Winterspring";
+LEVELRANGE_WINTERSPRING     = "Winterquell";
 LEVELRANGE_TELDRASSIL       = "Teldrassil";
-LEVELRANGE_DEADWINDPASS     = "Deadwind Pass";
+LEVELRANGE_DEADWINDPASS     = "Gebirgspass der Totenwinde";
 
 --Turtle WoW Zones
 LEVELRANGE_THALASSIANHIGHLANDS  = "Thalassian Highlands";
