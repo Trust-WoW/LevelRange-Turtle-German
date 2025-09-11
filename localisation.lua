@@ -27,7 +27,7 @@ LEVELRANGE_SILVERPINE       = "Silberwald";
 LEVELRANGE_WESTFALL         = "Westfall";
 LEVELRANGE_REDRIDGE         = "Rotkammgebirge";
 LEVELRANGE_DUSKWOOD         = "Dämmerwald";
-LEVELRANGE_HILLSBRAD        = "Vorgebirge des Hügellands";
+LEVELRANGE_HILLSBRAD        = "Vorgebirge des Hügellandes";
 LEVELRANGE_WETLANDS         = "Sumpfland";
 LEVELRANGE_ALTERAC          = "Alteracgebirge";
 LEVELRANGE_ARATHI           = "Arathihochland";
@@ -53,7 +53,7 @@ LEVELRANGE_FERALAS          = "Feralas";
 LEVELRANGE_TANARIS          = "Tanaris";
 LEVELRANGE_AZSHARA          = "Azshara";
 LEVELRANGE_FELWOOD          = "Teufelswald";
-LEVELRANGE_UNGOROCRATER     = "Un'Goro-Krater";
+LEVELRANGE_UNGOROCRATER     = "Krater von Un'Goro";
 LEVELRANGE_SILITHUS         = "Silithus";
 LEVELRANGE_WINTERSPRING     = "Winterquell";
 LEVELRANGE_TELDRASSIL       = "Teldrassil";
@@ -89,11 +89,11 @@ LEVELRANGE_SHADOWFANGKEEP   = "Burg Schattenfang";
 LEVELRANGE_BLACKFATHOMDEEPS = "Tiefschwarze Grotte";
 LEVELRANGE_GNOMEREGAN       = "Gnomeregan";
 LEVELRANGE_RAZORFENKRAUL    = "Kral der Klingenhauer";
-LEVELRANGE_SCARLETMONASTERY = "Das Scharlachrote Kloster";
+LEVELRANGE_SCARLETMONASTERY = "Scharlachrotes Kloster";
 LEVELRANGE_RAZORFENDOWNS    = "Hügel der Klingenhauer";
 LEVELRANGE_ULDAMAN          = "Uldaman";
 LEVELRANGE_MARAUDON         = "Maraudon";
-LEVELRANGE_SUNKENTEMPLE     = "Versunkener Tempel";
+LEVELRANGE_SUNKENTEMPLE     = "Der Versunkene Tempel";
 LEVELRANGE_BLACKROCKDEPTH   = "Schwarzfelstiefen";
 LEVELRANGE_BLACKROCKSPIRE   = "Schwarzfelsspitze";
 LEVELRANGE_STRATHOLME       = "Stratholme";
@@ -106,11 +106,11 @@ LEVELRANGE_ZULFARRAK        = "Zul'Farrak";
 LEVELRANGE_INSTANCESTEXT    = "Instanzen:";
 
 -- Turtle WoW Dungeons
-LEVELRANGE_CRESCENTGROVE    = "Der Sichelhain";
-LEVELRANGE_GILNEASCITY      = "Stadt Gilneas";
-LEVELRANGE_HATEFORGEQUARRY  = "Hassschmied-Steinbruch";
-LEVELRANGE_KARAZHANCRYPT    = "Krypta von Karazhan";
-LEVELRANGE_STORMWINDVAULT   = "Gewölbe von Sturmwind";
+LEVELRANGE_CRESCENTGROVE    = "Mondsichelhain";
+LEVELRANGE_GILNEASCITY      = "Stadt von Gilneas";
+LEVELRANGE_HATEFORGEQUARRY  = "Hassschmiede Steinbruch";
+LEVELRANGE_KARAZHANCRYPT    = "Karazhan Krypta";
+LEVELRANGE_STORMWINDVAULT   = "Tresor von Sturmwind";
 LEVELRANGE_COTBLACKMORASS   = "Höhlen der Zeit: Der Schwarze Morast";    
 
 --- Schlachtzüge
@@ -121,7 +121,7 @@ LEVELRANGE_TEMPLEAHNQIRAJ   = "Tempel von Ahn'Qiraj";
 LEVELRANGE_ZULGURUB         = "Zul'Gurub";
 
 -- Turtle WoW Schlachtzüge
-LEVELRANGE_EMERALDSANCTUM       = "Smaragdheiligtum";
+LEVELRANGE_EMERALDSANCTUM       = "Smaragdsanktum";
 LEVELRANGE_LOWERKARAZHANHALLS   = "Untere Hallen von Karazhan";
 
 
