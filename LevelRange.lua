@@ -227,7 +227,7 @@ LEVELRANGE_COLORS = {
     Unknown     = { r = 0.8, g = 0.8, b = 0.8 },
     Hostile     = { r = 0.9, g = 0.2, b = 0.2 },
     Friendly    = { r = 0.2, g = 0.9, b = 0.2 },
-    Contested   = { r = 1.0, g = 0.8, b = 0.0 },
+    Contested   = { r = 1.0, g = 0.5, b = 0.0 },
     
     None        = { r = 1.0, g = 1.0, b = 1.0 },
     Levels      = { r = 0.0, g = 0.7, b = 1.0 },
