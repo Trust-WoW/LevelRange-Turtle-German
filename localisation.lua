@@ -59,81 +59,81 @@ LEVELRANGE_WINTERSPRING     = "Winterquell";
 LEVELRANGE_TELDRASSIL       = "Teldrassil";
 LEVELRANGE_DEADWINDPASS     = "Gebirgspass der Totenwinde";
 
---Turtle WoW Zones
-LEVELRANGE_THALASSIANHIGHLANDS  = "Thalassian Highlands";
-LEVELRANGE_BLACKSTONEISLAND     = "Blackstone Island";
+-- Turtle WoW Zonen
+LEVELRANGE_THALASSIANHIGHLANDS  = "Thalassisches Hochland";
+LEVELRANGE_BLACKSTONEISLAND     = "Schwarzsteininsel";
 LEVELRANGE_GILNEAS              = "Gilneas";
-LEVELRANGE_GILLIJIM             = "Gillijim's Isle";
-LEVELRANGE_LAPIDIS              = "Lapidis Isle";
+LEVELRANGE_GILLIJIM             = "Gillijims Insel";
+LEVELRANGE_LAPIDIS              = "Lapidis-Insel";
 LEVELRANGE_TELABIM              = "Tel'Abim";
-LEVELRANGE_SCARLETENCLAVE       = "Scarlet Enclave";
+LEVELRANGE_SCARLETENCLAVE       = "Scharlachrote Enklave";
 LEVELRANGE_HYJAL                = "Hyjal";
 
--- Sub-zones
+-- Städte / Sub-Zonen
 LEVELRANGE_ORGRIMMAR        = "Orgrimmar";
-LEVELRANGE_THUNDERBLUFF     = "Thunder Bluff";
-LEVELRANGE_UNDERCITY        = "Undercity";
-LEVELRANGE_IRONFORGE        = "Ironforge";
-LEVELRANGE_STORMWIND        = "Stormwind City";
+LEVELRANGE_THUNDERBLUFF     = "Donnerfels";
+LEVELRANGE_UNDERCITY        = "Unterstadt";
+LEVELRANGE_IRONFORGE        = "Eisenschmiede";
+LEVELRANGE_STORMWIND        = "Sturmwind";
 LEVELRANGE_DARNASSUS        = "Darnassus";
 
---Turtle WoW Sub-zones
+-- Turtle WoW Sub-Zonen
 LEVELRANGE_ALAHTHALAS       = "Alah'Thalas";
-LEVELRANGE_TIRISFALUPLANDS  = "Tirisfal Uplands";
-LEVELRANGE_RUINSOFZULRASAZ  = "Ruins of Zul'rasaz";
+LEVELRANGE_TIRISFALUPLANDS  = "Tirisfalhochland";
+LEVELRANGE_RUINSOFZULRASAZ  = "Ruinen von Zul'rasaz";
 
--- Instances
-LEVELRANGE_DEADMINES        = "Deadmines";
-LEVELRANGE_WAILINGCAVERNS   = "Wailing Caverns";
-LEVELRANGE_SHADOWFANGKEEP   = "Shadowfang Keep";
-LEVELRANGE_BLACKFATHOMDEEPS = "Blackfathom Deeps";
+-- Instanzen
+LEVELRANGE_DEADMINES        = "Die Todesminen";
+LEVELRANGE_WAILINGCAVERNS   = "Die Höhlen des Wehklagens";
+LEVELRANGE_SHADOWFANGKEEP   = "Burg Schattenfang";
+LEVELRANGE_BLACKFATHOMDEEPS = "Tiefschwarze Grotte";
 LEVELRANGE_GNOMEREGAN       = "Gnomeregan";
-LEVELRANGE_RAZORFENKRAUL    = "Razorfen Kraul";
-LEVELRANGE_SCARLETMONASTERY = "The Scarlet Monastery";
-LEVELRANGE_RAZORFENDOWNS    = "Razorfen Downs";
+LEVELRANGE_RAZORFENKRAUL    = "Kral der Klingenhauer";
+LEVELRANGE_SCARLETMONASTERY = "Das Scharlachrote Kloster";
+LEVELRANGE_RAZORFENDOWNS    = "Hügel der Klingenhauer";
 LEVELRANGE_ULDAMAN          = "Uldaman";
 LEVELRANGE_MARAUDON         = "Maraudon";
-LEVELRANGE_SUNKENTEMPLE     = "The Sunken Temple";
-LEVELRANGE_BLACKROCKDEPTH   = "Blackrock Depths";
-LEVELRANGE_BLACKROCKSPIRE   = "Blackrock Spire";
+LEVELRANGE_SUNKENTEMPLE     = "Versunkener Tempel";
+LEVELRANGE_BLACKROCKDEPTH   = "Schwarzfelstiefen";
+LEVELRANGE_BLACKROCKSPIRE   = "Schwarzfelsspitze";
 LEVELRANGE_STRATHOLME       = "Stratholme";
-LEVELRANGE_DIREMAUL         = "Dire Maul";
+LEVELRANGE_DIREMAUL         = "Düsterbruch";
 LEVELRANGE_SCHOLOMANCE      = "Scholomance";
-LEVELRANGE_RAGEFIRECHASM    = "Ragefire Chasm";
-LEVELRANGE_STOCKADES        = "The Stockades";
+LEVELRANGE_RAGEFIRECHASM    = "Der Flammenschlund";
+LEVELRANGE_STOCKADES        = "Das Verlies";
 LEVELRANGE_ZULFARRAK        = "Zul'Farrak";
 
-LEVELRANGE_INSTANCESTEXT    = "Instances:";
+LEVELRANGE_INSTANCESTEXT    = "Instanzen:";
 
---Turtle WoW Dungeons
-LEVELRANGE_CRESCENTGROVE    = "The Crescent Grove";
-LEVELRANGE_GILNEASCITY      = "Gilneas City";
-LEVELRANGE_HATEFORGEQUARRY  = "Hateforge Quarry";
-LEVELRANGE_KARAZHANCRYPT    = "Karazhan Crypt";
-LEVELRANGE_STORMWINDVAULT   = "Stormwind Vault";
-LEVELRANGE_COTBLACKMORASS   = "Caverns of Time: The Black Morass";    
+- Turtle WoW Dungeons
+LEVELRANGE_CRESCENTGROVE    = "Der Sichelhain";
+LEVELRANGE_GILNEASCITY      = "Stadt Gilneas";
+LEVELRANGE_HATEFORGEQUARRY  = "Hassschmied-Steinbruch";
+LEVELRANGE_KARAZHANCRYPT    = "Krypta von Karazhan";
+LEVELRANGE_STORMWINDVAULT   = "Gewölbe von Sturmwind";
+LEVELRANGE_COTBLACKMORASS   = "Höhlen der Zeit: Der Schwarze Morast";    
 
--- Raids
+--- Schlachtzüge
 LEVELRANGE_NAXXRAMAS        = "Naxxramas";
-LEVELRANGE_ONYXIASLAIR      = "Onyxia's Lair";
-LEVELRANGE_RUINSAHNQIRAJ    = "Ruins of Ahn'Qiraj";
-LEVELRANGE_TEMPLEAHNQIRAJ   = "Temple of Ahn'Qiraj";
+LEVELRANGE_ONYXIASLAIR      = "Onyxias Hort";
+LEVELRANGE_RUINSAHNQIRAJ    = "Ruinen von Ahn'Qiraj";
+LEVELRANGE_TEMPLEAHNQIRAJ   = "Tempel von Ahn'Qiraj";
 LEVELRANGE_ZULGURUB         = "Zul'Gurub";
 
---Turtle WoW Raids
-LEVELRANGE_EMERALDSANCTUM       = "Emerald Sanctum";
-LEVELRANGE_LOWERKARAZHANHALLS   = "Lower Karazhan Halls";
+-- Turtle WoW Schlachtzüge
+LEVELRANGE_EMERALDSANCTUM       = "Smaragdheiligtum";
+LEVELRANGE_LOWERKARAZHANHALLS   = "Untere Hallen von Karazhan";
 
 
-LEVELRANGE_RAIDSTEXT        = "Raids:";
+LEVELRANGE_RAIDSTEXT        = "Schlachtzüge:";
 
--- General Strings
-LEVELRANGE_LEVELS           = "Levels %d - %d";
-LEVELRANGE_FLEVEL           = "Fishing Level %d";
+-- Allgemeine Strings
+LEVELRANGE_LEVELS           = "Level %d - %d";
+LEVELRANGE_FLEVEL           = "Angelfertigkeit %d";
 
--- Message Strings
-LEVELRANGE_LOADEDPREFIX     = "LevelRange version "
-LEVELRANGE_LOADEDSUFFIX     = " loaded."
+-- Meldungen
+LEVELRANGE_LOADEDPREFIX     = "LevelRange Version ";
+LEVELRANGE_LOADEDSUFFIX     = " geladen.";
 
 -- Instances List
 LEVELRANGE_INSTANCES1       = LEVELRANGE_DEADMINES         .. " (17, 26)"       
@@ -157,58 +157,58 @@ LEVELRANGE_INSTANCES17      = LEVELRANGE_RAGEFIRECHASM  .. " (13, 18)"
 LEVELRANGE_INSTANCES18      = LEVELRANGE_STOCKADES      .. " (24, 32)"
 LEVELRANGE_INSTANCES19      = LEVELRANGE_ZULFARRAK      .. " (44, 54)"
 
--- Help Strings
-LEVELRANGE_HELP0            = "Use the following commands to change LevelRange options."
-LEVELRANGE_HELP1            = "/lr >> Open LevelRange options frame."
-LEVELRANGE_HELP2            = "/lr toggle >> Toggle showing of the LevelRange tooltip."
-LEVELRANGE_HELP3            = "/lr instances >> Toggle showing of instances on the tooltip."
-LEVELRANGE_HELP4            = "/lr pvp >> Toggle showing of PvP diplomacy on the tooltip."
-LEVELRANGE_HELP5            = "/lr fishing >> Toggle display of minimum fishing level requirement on tooltip."
-LEVELRANGE_HELP6            = "Long Command: /levelrange can also be used inplace of /lr."
+-- Hilfe
+LEVELRANGE_HELP0            = "Nutze die folgenden Befehle, um die LevelRange-Optionen zu ändern.";
+LEVELRANGE_HELP1            = "/lr >> Öffnet das LevelRange-Optionsfenster.";
+LEVELRANGE_HELP2            = "/lr toggle >> Schaltet die Anzeige des Tooltips um.";
+LEVELRANGE_HELP3            = "/lr instances >> Schaltet die Anzeige von Instanzen um.";
+LEVELRANGE_HELP4            = "/lr pvp >> Schaltet die Anzeige der PvP-Diplomatie um.";
+LEVELRANGE_HELP5            = "/lr fishing >> Schaltet die Anzeige der benötigten Angelfertigkeit um.";
+LEVELRANGE_HELP6            = "Langer Befehl: /levelrange kann auch anstelle von /lr genutzt werden.";
 
--- Toggle Message Strings
-LEVELRANGE_ON               = "ON"
-LEVELRANGE_OFF              = "OFF"
+-- Umschalter
+LEVELRANGE_ON               = "AN";
+LEVELRANGE_OFF              = "AUS";
 
-LEVELRANGE_ENABLED          = "Enabled."
-LEVELRANGE_DISABLED         = "Disabled."
+LEVELRANGE_ENABLED          = "Aktiviert.";
+LEVELRANGE_DISABLED         = "Deaktiviert.";
 
-LEVELRANGE_TOGGLESHOW       = "LevelRange Tooltip"
-LEVELRANGE_TOGGLEINSTANCES  = "Display LevelRange Instances"
-LEVELRANGE_TOGGLERAIDS      = "Display LevelRange Raids"
-LEVELRANGE_TOGGLEPVP        = "Display LevelRange PvP Diplomacy"
-LEVELRANGE_TOGGLEFISHING    = "Display Minimum fishing level requirement"
+LEVELRANGE_TOGGLESHOW       = "LevelRange Tooltip";
+LEVELRANGE_TOGGLEINSTANCES  = "Instanzen anzeigen";
+LEVELRANGE_TOGGLERAIDS      = "Schlachtzüge anzeigen";
+LEVELRANGE_TOGGLEPVP        = "PvP-Diplomatie anzeigen";
+LEVELRANGE_TOGGLEFISHING    = "Benötigte Angelfertigkeit anzeigen";
 
--- Options Frame Strings
-LEVELRANGE_OPTIONS_CLOSE    = "Close"
-LEVELRANGE_OPTIONS_TITLE    = "LevelRange Options"
+-- Options-Fenster
+LEVELRANGE_OPTIONS_CLOSE    = "Schließen";
+LEVELRANGE_OPTIONS_TITLE    = "LevelRange-Optionen";
 
 LEVELRANGE_OPTIONS = {};
 LEVELRANGE_OPTIONS[1] = {   -- Option 1
-    label                   = "Enable LevelRange",
+    label                   = "LevelRange aktivieren",
     option                  = "showLevelRange",
-    tooltip                 = "Show/hide LevelRange tooltip",
+    tooltip                 = "LevelRange-Tooltip anzeigen/ausblenden",
     children                = {2, 3, 4},
 };
 LEVELRANGE_OPTIONS[2] = {   -- Option 2
-    label                   = "Show Instances",
+    label                   = "Instanzen anzeigen",
     option                  = "showInstances",
-    tooltip                 = "Show/hide instances on tooltip",
+    tooltip                 = "Instanzen im Tooltip anzeigen/ausblenden",
 };
 LEVELRANGE_OPTIONS[3] = {   -- Option 3
-    label                   = "Show Raids",
+    label                   = "Schlachtzüge anzeigen",
     option                  = "showRaids",
-    tooltip                 = "Show/hide raids on tooltip",
+    tooltip                 = "Schlachtzüge im Tooltip anzeigen/ausblenden",
 };
 LEVELRANGE_OPTIONS[4] = {   -- Option 4
-    label                   = "Show PvP Diplomacy",
+    label                   = "PvP-Diplomatie anzeigen",
     option                  = "showPvP",
-    tooltip                 = "Show/hide PvP Diplomacy on tooltip",
+    tooltip                 = "PvP-Diplomatie im Tooltip anzeigen/ausblenden",
 };
 LEVELRANGE_OPTIONS[5] = {   -- Option 5 
-    label                   = "Show Fishing level requirement",
+    label                   = "Angelfertigkeit anzeigen",
     option                  = "showFishing",
-    tooltip                 = "Show/hide Fishing level requirement on tooltip",
+    tooltip                 = "Benötigte Angelfertigkeit im Tooltip anzeigen/ausblenden",
 };
 
 LEVELRANGE_DEFAULT_OPTS = {
