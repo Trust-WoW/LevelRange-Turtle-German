@@ -118,6 +118,7 @@ LEVELRANGE_MOLTENCORE       = "Geschmolzener Kern";
 LEVELRANGE_NAXXRAMAS        = "Naxxramas";
 LEVELRANGE_ONYXIASLAIR      = "Onyxias Hort";
 LEVELRANGE_RUINSAHNQIRAJ    = "Ruinen von Ahn'Qiraj";
+LEVELRANGE_BLACKWINGLAIR    = "Pechschwingenhort";
 LEVELRANGE_TEMPLEAHNQIRAJ   = "Tempel von Ahn'Qiraj";
 LEVELRANGE_ZULGURUB         = "Zul'Gurub";
 
