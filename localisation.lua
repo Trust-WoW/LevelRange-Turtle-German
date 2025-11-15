@@ -125,6 +125,7 @@ LEVELRANGE_ZULGURUB         = "Zul'Gurub";
 -- Turtle WoW Schlachtzüge
 LEVELRANGE_EMERALDSANCTUM       = "Smaragdsanktum";
 LEVELRANGE_LOWERKARAZHANHALLS   = "Untere Hallen von Karazhan";
+LEVELRANGE_TOWEROFKARAZHAN      = "Turm von Karazhan";
 
 
 LEVELRANGE_RAIDSTEXT        = "Schlachtzüge:";
