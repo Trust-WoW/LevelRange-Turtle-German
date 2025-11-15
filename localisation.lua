@@ -111,7 +111,7 @@ LEVELRANGE_GILNEASCITY      = "Stadt von Gilneas";
 LEVELRANGE_HATEFORGEQUARRY  = "Hassschmiede Steinbruch";
 LEVELRANGE_KARAZHANCRYPT    = "Karazhan Krypta";
 LEVELRANGE_STORMWINDVAULT   = "Tresor von Sturmwind";
-LEVELRANGE_COTBLACKMORASS   = "Höhlen der Zeit: Der Schwarze Morast";    
+LEVELRANGE_COTBLACKMORASS   = "Höhlen der Zeit: Schwarzer Morast";    
 
 --- Schlachtzüge
 LEVELRANGE_MOLTENCORE       = "Geschmolzener Kern";
