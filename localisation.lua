@@ -60,11 +60,14 @@ LEVELRANGE_TELDRASSIL       = "Teldrassil";
 LEVELRANGE_DEADWINDPASS     = "Gebirgspass der Totenwinde";
 
 -- Turtle WoW Zonen
+LEVELRANGE_BALOR                = "Balor";
 LEVELRANGE_THALASSIANHIGHLANDS  = "Thalassisches Hochland";
 LEVELRANGE_BLACKSTONEISLAND     = "Schwarzstein Insel";
 LEVELRANGE_GILNEAS              = "Gilneas";
 LEVELRANGE_GILLIJIM             = "Gillijims Insel";
+LEVELRANGE_GRIMREACHES          = "Düsterweiten";
 LEVELRANGE_LAPIDIS              = "Insel des Doktor Lapidis";
+LEVELRANGE_NORTHWIND            = "Nordwind";
 LEVELRANGE_TELABIM              = "Tel'Abim";
 LEVELRANGE_SCARLETENCLAVE       = "Scharlachrote Enklave";
 LEVELRANGE_HYJAL                = "Hyjal";
