@@ -114,6 +114,7 @@ LEVELRANGE_STORMWINDVAULT   = "Tresor von Sturmwind";
 LEVELRANGE_COTBLACKMORASS   = "Höhlen der Zeit: Der Schwarze Morast";    
 
 --- Schlachtzüge
+LEVELRANGE_MOLTENCORE       = "Geschmolzener Kern";
 LEVELRANGE_NAXXRAMAS        = "Naxxramas";
 LEVELRANGE_ONYXIASLAIR      = "Onyxias Hort";
 LEVELRANGE_RUINSAHNQIRAJ    = "Ruinen von Ahn'Qiraj";
