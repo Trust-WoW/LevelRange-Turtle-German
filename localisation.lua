@@ -101,6 +101,7 @@ LEVELRANGE_DIREMAUL         = "Düsterbruch";
 LEVELRANGE_SCHOLOMANCE      = "Scholomance";
 LEVELRANGE_RAGEFIRECHASM    = "Der Flammenschlund";
 LEVELRANGE_STOCKADES        = "Das Verlies";
+LEVELRANGE_STORMWROUGHTRUINS = "Ruine von Sturmschmied"
 LEVELRANGE_DRAGONMAWRETREAT = "Zuflucht des Drachenmals"
 LEVELRANGE_ZULFARRAK        = "Zul'Farrak";
 
